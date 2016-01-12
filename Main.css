@@ -51,3 +51,9 @@ section ul li{
     margin-bottom: 8px;
     font-size: 25px;
 }
+#snack {
+    width: 50%;
+    margin: 10% auto;
+    text-align: center;
+    font-size: 30px;
+}
